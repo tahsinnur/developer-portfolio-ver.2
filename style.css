@@ -91,6 +91,7 @@ h3{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
+    border-radius: 5px;
 }
 .ex-right{
     width: 35%;
@@ -99,6 +100,7 @@ h3{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+    border-radius: 5px;
 }
 
 footer{
